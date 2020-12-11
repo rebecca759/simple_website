@@ -1,0 +1,158 @@
+.frall{
+  background-color: ghostwhite;
+ 
+}
+
+
+#home { text-align: center;
+          font-size: 20px;
+          margin: 5px 10px;
+          margin-bottom: 10%;
+          line-height: 2.0; 
+          text-align: justify;   
+
+
+}
+
+
+.links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+
+#link a {
+  float: right;
+
+}
+
+.links a {
+  display: block;
+  color: indigo;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 50px;
+  
+
+
+}
+
+.links a:hover {
+            color: darkgrey;
+}
+
+.links a:active {
+            color: darkgrey;
+}
+
+
+
+
+#myheader  {
+
+  
+  color:indigo;
+  text-align: left;
+  text-decoration: none;
+  font-size: 30px;
+  white-space: pre;
+  text-indent: 50px;
+
+
+}
+
+
+
+#form{
+
+  text-align: center;
+}
+
+
+#abt a{
+
+  float: center;
+
+}
+
+#abt2 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  }
+
+#abt2 a{
+  margin-top:50px;
+  display: block;
+  color: dimgrey;
+  text-align: center;
+  padding: 16px;
+  font-size: 25px
+
+
+}
+
+#abt2 a:hover {
+
+  color: darkgrey;
+}
+
+footer {
+
+  
+  margin-left: 1%;
+  border-top: solid darkgrey ; 
+  color: indigo;
+}
+
+
+
+#input{
+
+  padding: 9px;
+  font-size: 14pt;
+}
+
+
+
+.profiles{
+
+  font-size: 25px; 
+  margin-top: 50px; 
+  margin-left: 40px; 
+  border-bottom: solid darkgrey;
+}
+
+.prolist{
+
+  font-size: 20px; 
+  line-height: 3.0;
+ 
+}
+
+.nextpar {
+ width:470px;
+ padding-left:60px;
+ margin-top: -500px;
+ margin-right: 10%;
+ font-size:12px;
+ display:inline-block;
+ float: right;
+
+}
+
+.nextpar2 {
+ width:470px;
+ padding-left:60px;
+ margin-top: -350px;
+ margin-right: 10%;
+ font-size:12px;
+ display:inline-block;
+ float: left;
+
+}
